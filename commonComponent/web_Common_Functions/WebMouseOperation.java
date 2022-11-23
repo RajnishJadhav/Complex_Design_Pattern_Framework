@@ -1,7 +1,7 @@
 package web_Common_Functions;
 
 
-// Create Login_Page
+//Create a login page
 public class WebMouseOperation {
 
 }
