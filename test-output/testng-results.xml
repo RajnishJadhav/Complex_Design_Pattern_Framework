@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-21T20:21:01 IST" name="Suite" finished-at="2022-11-21T20:21:30 IST" duration-ms="29436">
+    <groups>
+    </groups>
+    <test started-at="2022-11-21T20:21:01 IST" name="Test" finished-at="2022-11-21T20:21:30 IST" duration-ms="29436">
+      <class name="Medifox_Page_Tests.Login_Page_Test">
+        <test-method is-config="true" signature="beforeAllTest()[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:01 IST" name="beforeAllTest" finished-at="2022-11-21T20:21:01 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllTest -->
+        <test-method is-config="true" signature="beforeEachTestCase(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:01 IST" name="beforeEachTestCase" finished-at="2022-11-21T20:21:06 IST" duration-ms="5374" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[medifox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void Medifox_Page_Tests.Login_Page_Test.TC1() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method signature="TC1()[pri:1, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:06 IST" name="TC1" finished-at="2022-11-21T20:21:09 IST" duration-ms="2855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method is-config="true" signature="afterEachTestCase()[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:09 IST" name="afterEachTestCase" finished-at="2022-11-21T20:21:09 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method is-config="true" signature="beforeEachTestCase(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:09 IST" name="beforeEachTestCase" finished-at="2022-11-21T20:21:11 IST" duration-ms="2068" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[medifox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void Medifox_Page_Tests.Login_Page_Test.TC2() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method signature="TC2()[pri:2, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:11 IST" name="TC2" finished-at="2022-11-21T20:21:21 IST" duration-ms="9891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method is-config="true" signature="afterEachTestCase()[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:21 IST" name="afterEachTestCase" finished-at="2022-11-21T20:21:21 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+        <test-method is-config="true" signature="beforeEachTestCase(java.lang.String,java.lang.String,java.lang.reflect.Method)[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:21 IST" name="beforeEachTestCase" finished-at="2022-11-21T20:21:23 IST" duration-ms="2335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[medifox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public void Medifox_Page_Tests.Login_Page_Test.TC3() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTestCase -->
+        <test-method signature="TC3()[pri:3, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:23 IST" name="TC3" finished-at="2022-11-21T20:21:30 IST" duration-ms="6559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method is-config="true" signature="afterEachTestCase()[pri:0, instance:Medifox_Page_Tests.Login_Page_Test@23c30a20]" started-at="2022-11-21T20:21:30 IST" name="afterEachTestCase" finished-at="2022-11-21T20:21:30 IST" duration-ms="171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTestCase -->
+      </class> <!-- Medifox_Page_Tests.Login_Page_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
